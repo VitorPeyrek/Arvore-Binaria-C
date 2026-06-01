@@ -13,8 +13,6 @@ Desenvolver operações de inserção e busca de elementos;
 Implementar percursos em árvores;
 Compreender a organização hierárquica de dados.
 
-Conceitos Aplicados
-
 Durante o desenvolvimento do projeto foram utilizados os seguintes conceitos:
 
 Estruturas de Dados
